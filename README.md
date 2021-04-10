@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aqib-javed1119
+- 👋 Hi, I’m Aqib Javed 
 - 👀 I’m interested in web develpoment 
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on creating websites for other people 
