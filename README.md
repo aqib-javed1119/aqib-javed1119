@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aqib Javed 
-- 👀 I’m interested in web develpoment and Cybersecurity .
+- 👀 I’m interested in web develpoment and Cybersecurity 
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on creating websites for other people 
 - 📫 How to reach me = aqib.javed1119@gmail.com
