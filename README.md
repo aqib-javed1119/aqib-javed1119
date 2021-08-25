@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Aqib Javed 
-- 👀 I’m interested in web develpoment and Cybersecurity 
-- 🌱 I’m currently learning React.js 
-- 💞️ I’m looking to collaborate on creating websites for other people 
-- 📫 How to reach me = aqib.javed1119@gmail.com
+- 👀 I’m interested in Full Stack development . 
+- 🌱 I know Html , CSS , JavaScript , React.js , Java , Python and C++ .
+- 📚 I am currenly learning Angular and Typescript .
+- 💞️ I’m looking to collaborate on creating websites for other people .
+- 📫 How to reach me = aqib.javed1119@gmail.com 
 
 <!---
 aqib-javed1119/aqib-javed1119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
