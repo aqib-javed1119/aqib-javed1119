@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Aqib Javed 
+- 👋 Hi, I’m Aqib Javed. 
 - 👀 I’m interested in Full Stack development. 
-- 🌱 I know Html, CSS, JavaScript, React.js, Angular,js, Node.js, Java, Python and C++.
-- 💞️ I’m looking to collaborate on creating websites for other people.
+- 🌱 I know Html, CSS, JavaScript, React.js, Angular, TypeScript, Node.js, Java, C#, Python, Scripting, Spring Boot, .Net.
 <!-- - 📫 How to reach me = aqib.javed1119@gmail.com  -->
 
 <!---
